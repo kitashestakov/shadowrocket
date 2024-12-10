@@ -2,9 +2,10 @@
 # DOMAIN-SUFFIX,ggpht.cn
 # DOMAIN-SUFFIX,ggpht.com
 
-DOMAIN-KEYWORD,googlevideo
+# DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN-KEYWORD,googlevideo
+
 DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,video.google.com
