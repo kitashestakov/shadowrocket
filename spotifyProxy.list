@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,i.scdn.co,
 DOMAIN-KEYWORD,spotify
 USER-AGENT,Spotify*
 
