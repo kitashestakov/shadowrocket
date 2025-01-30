@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,i.scdn.co,
 DOMAIN-KEYWORD,spotify
 USER-AGENT,Spotify*
-
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotifycdn.com
