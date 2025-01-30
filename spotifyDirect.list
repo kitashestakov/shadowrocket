@@ -7,7 +7,6 @@ IP-CIDR,35.186.224.47/32,no-resolve
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
-
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
