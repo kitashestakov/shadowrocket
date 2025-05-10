@@ -7,3 +7,8 @@ DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,bestchange.ru
 DOMAIN,spotify.com
 DOMAIN-SUFFIX,airbnb.ru
+DOMAIN-KEYWORD,openai.com
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,auth0.openai.com
+DOMAIN-KEYWORD,oaistatic.com
+DOMAIN-KEYWORD,oaiusercontent.com
